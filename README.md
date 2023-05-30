@@ -8,8 +8,8 @@ Simple Rock Paper Scissors Game
 # Layout
 ![Preview](https://github.com/IncorrectPleaseTryAgain/Rock-Paper-Scissors/assets/99939034/d1d4e165-0d34-42c2-8abb-ee944f0b77c5)
 
-- [x] Rock, Paper, Scissors buttons
-- [x] Visual Representation Of Result
+- [x] Rock, Paper, Scissors Buttons
+- [x] Visual Representation of Result
 - [x] Scoreboard
 - [x] Restart Button
 - [x] Auto Play Button
