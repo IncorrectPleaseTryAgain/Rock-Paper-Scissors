@@ -1,0 +1,92 @@
+/* Divs */
+.div-result {
+    display: grid;
+    grid-template-columns: 1fr 80px 1fr;
+    align-content: center;
+    font-size: 3rem;
+
+    border: 2px solid rgb(110, 110, 110);
+
+    border-radius: 50%;
+
+    height: 160px;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(129deg, rgba(2, 0, 36, 0.6251750700280112) 0%, rgba(175, 0, 255, 0.7232142857142857) 25%, rgba(255, 4, 167, 0.6727941176470589) 50%, rgba(255, 38, 0, 0.7932422969187676) 75%, rgba(225, 109, 21, 0.6475840336134453) 100%);
+}
+
+.div-user-selection {
+    margin-left: 25px;
+}
+
+.div-comp-selection {
+    margin-right: 25px;
+}
+
+.div-user-title,
+.div-comp-title {
+    font-size: 30px;
+    text-shadow: 2px 2px 5px black;
+}
+
+.div-result-title {
+    display: grid;
+    height: 100%;
+    align-items: center;
+    text-shadow: 2px 2px 5px black;
+}
+
+
+.div-score {
+    font-size: 2ex;
+}
+
+.div-wins-losses {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.div-actions {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+/* Buttons */
+.btn {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(170, 59, 255);
+    font-size: 5ex;
+    border-radius: 50%;
+
+    margin: 15px;
+
+    border: 3px solid rgb(110, 110, 110);
+    transition: background-color 0.2s;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: rgb(189, 102, 255);
+}
+
+.btn:active {
+    background-color: rgb(161, 39, 254);
+}
+
+.btn-restart,
+.btn-auto {
+    color: rgb(234, 234, 234);
+    font-size: 25px;
+    text-shadow: 2px 2px 5px black;
+
+}
+
+/* Key Frames */
+@keyframes auto-active {
+    50% {
+        font-size: 20px;
+        background-color: red;
+    }
+}
