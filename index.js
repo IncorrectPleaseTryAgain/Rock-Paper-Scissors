@@ -1,9 +1,15 @@
 /*
-*   Author: Michael Steenkamp
-*   Date: 29-05-2023
-*   Name: Rock Paper Scissors
-*   Description: Simple implementation of the game
-*                Rock Paper Scisors.
+*   Author: 
+    Michael Steenkamp
+
+*   Date: 
+    29-05-2023
+
+*   Name: 
+    Rock Paper Scissors
+    
+*   Description: 
+    Simple implementation of the game rock paper scissors
 */
 
 /* GLOBAL VARIABLES */
