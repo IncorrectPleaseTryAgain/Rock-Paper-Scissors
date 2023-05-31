@@ -1,25 +1,17 @@
+<a name="top"></a>
 # Rock-Paper-Scissors
 Simple Rock Paper Scissors Game
-* [Layout](#layout)
-* [Functionality](#functionality)
-* [Rules](#rules)
-* [References](#references)
 
-# Layout
-![Preview](https://github.com/IncorrectPleaseTryAgain/Rock-Paper-Scissors/assets/99939034/d1d4e165-0d34-42c2-8abb-ee944f0b77c5)
+![image](https://github.com/IncorrectPleaseTryAgain/Rock-Paper-Scissors-Simple/assets/99939034/9bbd4ee2-4b51-4db7-a6e2-b46a30ec20e1)
+<br>
+# <a href="https://youtu.be/L_Fx6S6eXeQ">Video Preview<a/>
 
+# Features
 - [x] Rock, Paper, Scissors Buttons
 - [x] Visual Representation of Result
 - [x] Scoreboard
 - [x] Restart Button
 - [x] Auto Play Button
-
-----
-
-# Functionality
-https://github.com/IncorrectPleaseTryAgain/Rock-Paper-Scissors/assets/99939034/c9ce155f-ed0a-42ca-9bb3-92afebcf6d70
-
-<p>The user is able to choose either a 'rock', 'paper', or 'scissors'. The computer then chooses a random option. Depending on the result the usr either wins, loses, or ties.</p>
 
 ----
 
@@ -60,4 +52,4 @@ SuperSimpleDev. (2023). JavaScript Full Course (2023) - Beginner to Pro - Part 1
 
 ---
 
-* [Back to top](#rock-paper-scissors)
+[Back to top](#top)
